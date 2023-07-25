@@ -88,6 +88,6 @@ Here are some ideas to get you started:
 
 ## Top Languages
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVanManh-AI&layout=compact" alt="kritikapattalam" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVanManh-AI&layout=compact" alt="kritikapattalam" width="48%" />
  
 
