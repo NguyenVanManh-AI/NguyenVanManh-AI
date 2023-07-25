@@ -56,6 +56,7 @@
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?style=flat-square&logo=django&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
+  <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="SQL Server" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
@@ -88,11 +89,4 @@ Here are some ideas to get you started:
 ## Top Languages
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVanManh-AI&layout=compact)
-  
-
-![Contributors](https://img.shields.io/github/contributors/NguyenVanManh-AI/MyRepo)
-![Contributors](https://img.shields.io/github/contributors/NguyenVanManh-AI/MyRepo)
-![Stars](https://img.shields.io/github/stars/NguyenVanManh-AI/MyRepo)
-![Forks](https://img.shields.io/github/forks/NguyenVanManh-AI/MyRepo)
-![GitHub Actions](https://github.com/NguyenVanManh-AI/MyRepo/workflows/My-Workflow/badge.svg)
 
