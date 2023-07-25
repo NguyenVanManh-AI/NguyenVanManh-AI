@@ -84,11 +84,10 @@ Here are some ideas to get you started:
 
  <img src="https://github-readme-stats.vercel.app/api?username=NguyenVanManh-AI&show_icons=true&theme=gotham" alt="kritikapattalam" width="45%" align="right"/>
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenVanManh-AI&theme=dark" width="48%" >
- 
+<img  src="https://stats.dooboo.io/api/github-stats-advanced?login=NguyenVanManh-AI" width="48%" >
 
 ## Top Languages
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVanManh-AI&layout=compact" alt="kritikapattalam" width="45%" align="right"/>
-<img  src="https://stats.dooboo.io/api/github-stats-advanced?login=NguyenVanManh-AI" width="48%" >
  
 
