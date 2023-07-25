@@ -88,6 +88,7 @@ Here are some ideas to get you started:
 
 ## Top Languages
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVanManh-AI&layout=compact)
- <img  src="https://stats.dooboo.io/api/github-stats-advanced?login=NguyenVanManh-AI" height="100px" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVanManh-AI&layout=compact" alt="kritikapattalam" width="45%" align="right"/>
+<img  src="https://stats.dooboo.io/api/github-stats-advanced?login=NguyenVanManh-AI" width="48%" >
+ 
 
