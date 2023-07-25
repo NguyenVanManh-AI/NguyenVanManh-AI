@@ -90,4 +90,9 @@ Here are some ideas to get you started:
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVanManh-AI&layout=compact)
   
 
+![Contributors](https://img.shields.io/github/contributors/NguyenVanManh-AI/MyRepo)
+![Contributors](https://img.shields.io/github/contributors/NguyenVanManh-AI/MyRepo)
+![Stars](https://img.shields.io/github/stars/NguyenVanManh-AI/MyRepo)
+![Forks](https://img.shields.io/github/forks/NguyenVanManh-AI/MyRepo)
+![GitHub Actions](https://github.com/NguyenVanManh-AI/MyRepo/workflows/My-Workflow/badge.svg)
 
