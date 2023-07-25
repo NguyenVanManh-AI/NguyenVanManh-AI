@@ -1,28 +1,32 @@
-# Hi there. I am Kritika 👋 . Welcome to my Profile!!!   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=NguyenVanManh-AI.repoName)
+# Hi there. I am Nguyen Van Manh 👋 . Welcome to my Profile!!!   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=NguyenVanManh-AI.repoName)
 
-- 🔭 I am currently working as a Front End Engineer.
-- 🌱 Currently learning : Vue JS, Python.
-- 💬 Ask me about: JavaScript, React, CSS.
-- 😄 Pronouns: She/Her.
-- 📫 How to reach me: <a href="mailto:nguyenvanmanh2001it1@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/nvmanhfullstack/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://stackoverflow.com/users/15541224/nguy%e1%bb%85n-v%c4%83n-m%e1%ba%a1nh"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+- 🔭 I am looking for a job BackEnd PHP Laravel or FrontEnd VueJS .
+- 💎 Skill : HTML, CSS, Bootstrap, JavaScript, Jquery, VueJS, Mysql, PHP, Laravel 
+- 😄 Pronouns : He/Him.
 
-### My Recent Blogs posts
+### Connect with me:
+- <a href="mailto:nguyenvanmanh2001it1@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+- <a href="https://www.linkedin.com/in/nvmanhfullstack/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+- <a href="https://stackoverflow.com/users/15541224/nguy%e1%bb%85n-v%c4%83n-m%e1%ba%a1nh"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<p align="left">
+<a href="https://www.instagram.com/vanmanh.ai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imeidthiz" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://www.facebook.com/IcassNiuTon" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" alt="imeidthiz" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://twitter.com/NguyenVanManhft" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/421/879/png-transparent-twitter-logo-social-media-iphone-organization-logo-twitter-computer-network-leaf-media.png" alt="imeidthiz" height="30" width="40" /></a>
+</p>
+- Phone : 0971404372 (Zalo)
+
+### Some Of My Projects
 <!-- You can use Your Hashnode Blog to get your feed directly on your github profile -->
 <!-- BLOG-POST-LIST:START -->
-- [HTML Roadmap](https://blog.kritikapattalam.com/html-roadmap)
-- [Do you use git? Then this is for you...](https://blog.kritikapattalam.com/different-ways-to-use-git-add)
-- [Create a DOWNLOAD link in a single line of HTML](https://blog.kritikapattalam.com/create-a-download-link-in-html)
-- [First Step to Learning Vue JS - 3](https://blog.kritikapattalam.com/first-step-to-learning-vue-js-3)
-- [Display random quotes from Chuck Norris API](https://blog.kritikapattalam.com/random-quotes-from-chuck-norris-api)
-- [Build a Random Quote Generator using JavaScript](https://blog.kritikapattalam.com/build-a-random-quote-generator-using-javascript)
-- [Build a Simple Clock  using JavaScript](https://blog.kritikapattalam.com/build-a-simple-clock-using-javascript)
-- [Do you know what &quot;use strict&quot; does in JavaScript ?](https://blog.kritikapattalam.com/use-strict-mode-in-javascript)
-- [Difference between delete and splice an element in an array using JavaScript](https://blog.kritikapattalam.com/difference-between-delete-and-splice-an-element-in-an-array-using-javascript)
-- [Difference between var and let in JavaScript](https://blog.kritikapattalam.com/difference-between-var-and-let-in-javascript)
-- [How to add a favicon to a website in a single line of HTML?](https://blog.kritikapattalam.com/how-to-add-a-favicon-to-a-website-in-a-single-line-of-html)
-- [Drop CAP effect / Changing the style of the first letter in a paragraph using CSS.](https://blog.kritikapattalam.com/drop-cap-effect-changing-the-style-of-the-first-letter-in-a-paragraph-using-css)
+- [BlogifyNow use PHP Laravel Jquery Bootstrap](https://github.com/NguyenVanManh-AI/bloglaravel)
+- [AI - Face recognition use Django VueJS Bootstrap](https://github.com/NguyenVanManh-AI/SourceCodePBL5)
+- [BlogWebApp use Django VueJS Bootstrap](https://github.com/NguyenVanManh-AI/BlogWebApp)
+- [Meta Shop use PHP Laravel Vuejs Bootstrap](https://github.com/NguyenVanManh-AI/SourceCodePBL4)
 <!-- BLOG-POST-LIST:END -->
-
 
 
 ## Tech Stack
@@ -66,12 +70,7 @@ Here are some ideas to get you started:
  <img src="https://github-readme-stats.vercel.app/api?username=NguyenVanManh-AI&show_icons=true&theme=gotham" alt="kritikapattalam" width="45%" align="right"/>
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenVanManh-AI&theme=dark" width="48%" >
  
-### My Stackoverflow Stats
 
-<a href="https://stackoverflow.com/users/2509472/pbk1303"><img src="https://stackoverflow.com/users/flair/2509472.png" width="208" height="58" alt="profile for Pbk1303 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Pbk1303 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-  
-  
 ## Top Languages
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVanManh-AI&layout=compact)
