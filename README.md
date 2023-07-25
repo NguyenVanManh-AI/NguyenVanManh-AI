@@ -9,7 +9,7 @@
 <br>
 <a href="https://www.instagram.com/vanmanh.ai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imeidthiz" height="30" /></a>
 <a href="https://www.facebook.com/IcassNiuTon" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" alt="imeidthiz" height="30" /></a>
-<a href="https://twitter.com/NguyenVanManhft" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/421/879/png-transparent-twitter-logo-social-media-iphone-organization-logo-twitter-computer-network-leaf-media.png" alt="imeidthiz" height="30" /></a>
+<a href="https://twitter.com/NguyenVanManhft" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1657045399twitter-icon-png.png" alt="imeidthiz" height="30" /></a>
 - Phone : 0971404372 (Zalo)
 
 ### Some Of My Projects
