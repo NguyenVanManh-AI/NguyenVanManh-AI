@@ -4,7 +4,7 @@
 - 💎 Skill : HTML, CSS, Bootstrap, JavaScript, Jquery, VueJS, Mysql, PHP, Laravel 
 - 😄 Pronouns : He/Him.
 
-### Connect with me:
+## Connect with me:
 <a href="mailto:nguyenvanmanh2001it1@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/nvmanhfullstack/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://stackoverflow.com/users/15541224/nguy%e1%bb%85n-v%c4%83n-m%e1%ba%a1nh"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 <img alt="Zalo" src="https://img.shields.io/badge/0971404372-0068FF?style=for-the-badge&logo=zalo&logoColor=white">
 
@@ -12,7 +12,7 @@
 <a href="https://www.facebook.com/IcassNiuTon" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" alt="imeidthiz" height="30" /></a>
 <a href="https://twitter.com/NguyenVanManhft" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1657045399twitter-icon-png.png" alt="imeidthiz" height="30" /></a>
 
-### Some Of My Projects
+## Some Of My Projects
 <!-- You can use Your Hashnode Blog to get your feed directly on your github profile -->
 <!-- BLOG-POST-LIST:START -->
 - [BlogifyNow use PHP Laravel Jquery Bootstrap](https://github.com/NguyenVanManh-AI/bloglaravel)
